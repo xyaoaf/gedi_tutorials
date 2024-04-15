@@ -1,5 +1,7 @@
 # Tutorials on GEDI Science Data Products
 
+** Amended by Xihan Yao as a part of the ESPM 288 project in Spring 2024 at UC Berkeley, CA **
+
 **Author:** ORNL DAAC       
 **Date:** August 26, 2021       
 **Contact for the ORNL DAAC:** uso@daac.ornl.gov
